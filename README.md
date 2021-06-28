@@ -14,3 +14,5 @@ having a Growth Mindset empowers  you to chanlege youeself ,overcome all obstacl
  - reminding myself about the relief i'm feeling after overcoming one of my daily obstacle 
  - encourage surrounded people to use it as a life time mindset 
  - keeping notes here and there reminds me of it .
+
+ [go to the original article :](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
