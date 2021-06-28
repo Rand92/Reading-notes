@@ -16,3 +16,8 @@ having a Growth Mindset empowers  you to chanlege youeself ,overcome all obstacl
  - keeping notes here and there reminds me of it .
 
  [go to the original article ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+
+Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work experience in civil engineering . best of luck to all of you .
+[my GITHUB](https://github.com/Rand92)
