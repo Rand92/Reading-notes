@@ -42,3 +42,4 @@ initial	| Sets this property to its default value. Read about initial
 inherit	| Inherits this property from its parent element. Read about inherit
 
 > *References* >> [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS),  [ How To Add CSS](https://www.w3schools.com/css/css_howto.asp), [ CSS color](https://www.w3schools.com/cssref/pr_text_color.asp) 
+
