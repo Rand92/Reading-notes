@@ -71,7 +71,7 @@ You can specify the dimensions o XX f images using CSS.This is very helpful when
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
 ![HTML Layouts](https://www.w3schools.com/html/img_sem_elements.gif)
 
-# JAVASCRIPT & JQUERY
+## JAVASCRIPT & JQUERY
 Interactive Front-End Web Development
 > by JON DUCKETT
 
