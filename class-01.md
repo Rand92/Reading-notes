@@ -1,4 +1,3 @@
-
 # HTML & CSS
 *Design and Build Websites*
 > by Jon Duckett
@@ -85,7 +84,7 @@ language itself, you need to become familiar with some key
 concepts in computer programming**. They will be covered in
 three sections:
 - **A** : What is a script and how do I create one? 
-[A script is a series of instructions that a computer can follow to achieve a goal.To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.]
+A script is a series of instructions that a computer can follow to achieve a goal.To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 - **B** : How do computers fit in with the world around them? [COMPUTERS CREATE MODELS OF THE WORLD USING DATA.
 *OBJECTS* (THINGS) In computer programming, each physica l thing in the world can be represented as an object. 
 Each object can have its own:
@@ -101,4 +100,4 @@ driver interacts with each of the different pedals:
 • The brake slows it down 
 , Similarly, programs are designed to do different things when users interact with the computer in different ways. For example, clicking on a contact link on a web page could bring up a contact form, and entering text into a search box may automatically trigger the search functionality.]
 - **C** : How do I write a script for a web page?
-[It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension. The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.]
+It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension. The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
