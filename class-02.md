@@ -11,7 +11,6 @@ HTML has six "levels" of headings:
 If there are further sections under the subheadings then the [< h3 >] element is used, and so on... 
 ### Paragraphs
 To create a paragraph, surround the words that make up the paragraph with an opening [< p >] tag and closing [< /p >] tag. By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
-
 ### Visual Editors & Their Code views 
 Content management systems and HTML editors such as *Dreamweaver* usually have two views of the page you are creating: a visual editor and a code view.
 - **Visual editors** often resemble word processors. Although each editor will differ slightly, there are some features that are common to most editors that allow you to control the presentation of text.
