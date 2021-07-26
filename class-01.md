@@ -3,22 +3,51 @@
 > by Jon Duckett
 
 You can download all of the code for this book online at: [htmlandcssbook](http://www.htmlandcssbook.com/code/)
+### Introduction to the Book
+In order to teach you about creating web pages,
+this book is divided into three sections:
+- **1: HTML**
+We will spend the first chapter
+looking at how HTML is used to
+create web pages. You will see
+that you start by writing down
+the words you want to appear
+on your page. You then add tags
+or elements to the words so
+that the browser knows what is
+a heading, where a paragraph
+begins and ends, and so on.
+- **2: CSS**
+We start this section with a
+chapter that explains how CSS
+uses rules to enable you to
+control the styling and layout
+of web pages. We then go on to
+look at the wide variety of CSS
+properties you can use in your
+CSS rules. 
+- **3: Practical**
+We end up with some helpful
+information that will assist you in
+building better websites.
 
-### The Structure of This Book :
-- HTML
-- CSS
-- Practical 
-
-**The different ways in which people access the web
-and clarify some terminology are:**
-- **Browsers** : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
-- **Web Servers**: When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.
-- **Devices**: People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to remember that various devices have different screen sizes and some have faster connections to the web than others.
-- **Screen readers**: Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
-
-**How Websites Are Created?**
-All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix. When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+### How the Web Works
+When you visit a website, the web server
+hosting that site could be anywhere in the
+world. In order for you to find the location of
+the web server, your browser will first connect
+to a Domain Name System (DNS) server.
 ![how the web works](https://davidrbrown.com/wp-content/uploads/2011/03/internet.gif)
+### The Structure of This Book :
+**Structuring Word Documents**
+The use of headings and
+subheadings in any document
+often reflects a hierarchy of
+information. For example, a
+document might start with
+a large heading, followed by
+an introduction or the most
+important information.
 
 **HTML Uses Elements to Describe the Structure of Pages**
 In the browser window you can see a web page that features exactly the same content as the Word document you met on the page 18. To describe the structure of a web page, we add code to the words we want to appear on the page.
