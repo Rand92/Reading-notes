@@ -6,6 +6,7 @@ You can download all of the code for this book online at: [htmlandcssbook](http:
 ### Introduction to the Book
 In order to teach you about creating web pages,
 this book is divided into three sections:
+
 - **1: HTML**
 We will spend the first chapter
 looking at how HTML is used to
