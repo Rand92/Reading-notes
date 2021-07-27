@@ -17,9 +17,9 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 ## Code 201 Reading Notes
 | Reads | Links |
 |------- |-------|
-|Read 1 | [Read1]() |
-|Read 2 | [Read2]() |
-|Read 3 | [Read3]() |
+|Read 1 | [Read1](https://rand92.github.io/Reading-notes/class-01) |
+|Read 2 | [Read2](https://rand92.github.io/Reading-notes/class-02) |
+|Read 3 | [Read3](https://rand92.github.io/Reading-notes/reads-201/read03) |
 |Read 4 | [Read4]() |
 |Read 5 | [Read5]() |
 |Read 6 | [Read6]() |
