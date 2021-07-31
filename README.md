@@ -21,7 +21,7 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 |Read 2 | [Read2](https://rand92.github.io/Reading-notes/class-02) |
 |Read 3 | [Read3](https://rand92.github.io/Reading-notes/reads-201/read03) |
 |Read 4 | [Read4](https://rand92.github.io/Reading-notes/reads-201/read04) |
-|Read 5 | [Read5]() |
+|Read 5 | [Read5](https://rand92.github.io/Reading-notes/reads-201/read05) |
 |Read 6 | [Read6]() |
 |Read 7 | [Read7]() |
 |Read 8 | [Read8]() |
