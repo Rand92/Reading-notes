@@ -93,6 +93,7 @@ a set of attribute selectors that allow you to create rules that apply to
 elements that have an attribute with a specific value.
 # JPEG vs PNG vs GIF — which image format to use and when?
 >WRITTEN BY: Rahul Nanwani
+
 There are hundreds of image formats available each with a specific use case. I bet most of us wouldn’t have come across 90% of the image formats listed on [Wikipedia](https://www.wikipedia.org/).
 In this post, we would only be looking at the three most commonly used image formats in websites and mobile applications — JPEG, PNG and GIF. Several statistics reports, including the one from HTTP Archive, indicate that these 3 formats together comprise of more than 95% of all images loaded on websites. However, these 3 image formats have significant differences amongst themselves thus making each of them suitable for specific use cases. Understanding these major differences would help us deliver the best possible images to our website and mobile app users.
 - **JPEG** images don’t support transparency and are hence not usable for such cases.
