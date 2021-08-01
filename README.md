@@ -1,18 +1,35 @@
- *Reading-notes*
-# Growth Mindset
-A growth mindset is synonymous with a love of learning! and When we’re growing, we’re more productive.
-the one that carry this mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 
-#### there are two types of mindset that are common between people . This simple illustration below highlighting the differences between a fixed and a growth mindset:
-![fixd and growth mindset](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
+Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work experience in civil engineering . best of luck to all of you .
+[my Github profile](https://github.com/Rand92)
 
-Having a Growth Mindset empowers  you to chanlege youeself ,overcome all obstacles , put some extra effort in your daily activities and most of all analyzing the  criticism and take advantage out of it .
+## Code 102 Reading Notes
+| Title | Links |
+|-------- | ---- |
+| read 1 | [ read1](https://rand92.github.io/Reading-notes/read01)
+|read 2 | [read2](https://rand92.github.io/Reading-notes/Read02) |
+| Growth mindset | [Growth mindset](https://rand92.github.io/Reading-notes/growthMindset) |
+|read 3 | [read3](https://rand92.github.io/Reading-notes/Read03) |
+|read 4 | [read4](https://rand92.github.io/Reading-notes/Read04) |
+|read 5 | [read5](https://rand92.github.io/Reading-notes/Read05) |
+|read 6 | [read6](https://rand92.github.io/Reading-notes/Read06) |
+|read 7 | [read7](https://rand92.github.io/Reading-notes/Read07) |
 
- Try to remember that short-term frustration will likely result in long-term improvement of your abilities – if you stay with it. A growth mindset opens up to more creativity and possibility, and you discover the ablity to achieve more and set higher goals.
- 
- ###### how to keep myself in a growth mindset by : 
- - reminding myself about the relief i'm feeling after overcoming one of my daily obstacle 
- - encourage surrounded people to use it as a life time mindset 
- - keeping notes here and there reminds me of it .
+## Code 201 Reading Notes
+| Reads | Links |
+|------- |-------|
+|Read 1 | [Read1](https://rand92.github.io/Reading-notes/class-01) |
+|Read 2 | [Read2](https://rand92.github.io/Reading-notes/class-02) |
+|Read 3 | [Read3](https://rand92.github.io/Reading-notes/reads-201/read03) |
+|Read 4 | [Read4](https://rand92.github.io/Reading-notes/reads-201/read04) |
+|Read 5 | [Read5](https://rand92.github.io/Reading-notes/reads-201/read05) |
+|Read 6 | [Read6](https://rand92.github.io/Reading-notes/reads-201/read06) |
+|Read 7 | [Read7](https://rand92.github.io/Reading-notes/reads-201/read07) |
+|Read 8 | [Read8]() |
+|Read 9 | [Read9]() |
+|Read 10 | [Read10]() |
+|Read 11 | [Read11]() |
+|Read 12 | [Read12]() |
+|Read 13 | [Read13]() |
+|Read 14| [Read14]() |
+|Read 15 | [Read15]() |
 
- [go to the original article :](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
