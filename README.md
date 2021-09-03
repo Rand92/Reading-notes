@@ -32,3 +32,17 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 |Read 13 |  [Read13](https://rand92.github.io/Reading-notes/reads-201/read13)|
 |Read 14a| [Read14a](https://rand92.github.io/Reading-notes/reads-201/read14a) |
 |Read 14b | [Read14b](https://rand92.github.io/Reading-notes/reads-201/read14b) |
+
+## Code 301 Reading Notes
+| Reads | Links |
+|------- |-------|
+|Read 1 | [Read1]() |
+|Read 2 | [Read2]() |
+|Read 3 | [Read3]() |
+|Read 4 | [Read4]() |
+|Read 5 | [Read5]() |
+|Read 6 | [Read6]() |
+|Read 7 | [Read7]() |
+|Read 8 | [Read8]() |
+|Read 9 | [Read9]() |
+|Read 10 | [Read10]() |
