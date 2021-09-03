@@ -1,8 +1,9 @@
 
 Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work experience in civil engineering . best of luck to all of you .
 [my Github profile](https://github.com/Rand92)
-
-## Code 102 Reading Notes
+# Reading Notes
+it's a website for all the reading tasks we had .
+## Code 102 - Intro to Software Development
 | Title | Links |
 |-------- | ---- |
 | read 1 | [ read1](https://rand92.github.io/Reading-notes/read01)
@@ -14,7 +15,7 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 |read 6 | [read6](https://rand92.github.io/Reading-notes/Read06) |
 |read 7 | [read7](https://rand92.github.io/Reading-notes/Read07) |
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 | Reads | Links |
 |------- |-------|
 |Read 1 | [Read1](https://rand92.github.io/Reading-notes/class-01) |
@@ -33,7 +34,7 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 |Read 14a| [Read14a](https://rand92.github.io/Reading-notes/reads-201/read14a) |
 |Read 14b | [Read14b](https://rand92.github.io/Reading-notes/reads-201/read14b) |
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 | Reads | Links |
 |------- |-------|
 |Read 1 | [Read1]() |
@@ -46,3 +47,5 @@ Hi everyone! I'm Rand , a 28 year-old civil engineer  with 3 years of work exper
 |Read 8 | [Read8]() |
 |Read 9 | [Read9]() |
 |Read 10 | [Read10]() |
+
+## Code 401 - Advanced Software Development
