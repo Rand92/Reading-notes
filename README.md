@@ -37,7 +37,7 @@ it's a website for all the reading tasks we had .
 ## Code 301 - Intermediate Software Development
 | Reads | Links |
 |------- |-------|
-|Read 1 | [Read1]() |
+|Read 1 | [Read1](https://rand92.github.io/Reading-notes/reads301/read01) |
 |Read 2 | [Read2]() |
 |Read 3 | [Read3]() |
 |Read 4 | [Read4]() |
