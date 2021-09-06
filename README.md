@@ -39,7 +39,7 @@ it's a website for all the reading tasks we had .
 |------- |-------|
 |Read 1 | [Read1](https://rand92.github.io/Reading-notes/reads301/read01) |
 |Read 2 | [Read2](https://rand92.github.io/Reading-notes/reads301/read02) |
-|Read 3 | [Read3]() |
+|Read 3 | [Read3]((https://rand92.github.io/Reading-notes/reads301/read03) |
 |Read 4 | [Read4]() |
 |Read 5 | [Read5]() |
 |Read 6 | [Read6]() |
