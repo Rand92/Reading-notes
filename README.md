@@ -44,7 +44,7 @@ it's a website for all the reading tasks we had .
 |Read 5 | [Read5](https://rand92.github.io/Reading-notes/reads301/read05) |
 |Read 6 | [Read6](https://rand92.github.io/Reading-notes/reads301/read06) |
 |Read 7 | [Read7](https://rand92.github.io/Reading-notes/reads301/read07) |
-|Read 8 | [Read8]() |
+|Read 8 | [Read8](https://rand92.github.io/Reading-notes/reads301/read08) |
 |Read 9 | [Read9]() |
 |Read 10 | [Read10]() |
 
