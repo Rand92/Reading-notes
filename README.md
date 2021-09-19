@@ -47,9 +47,9 @@ it's a website for all the reading tasks we had .
 |Read 8 | [Read8](https://rand92.github.io/Reading-notes/reads301/read08) |
 |Read 9 | [Read9](https://rand92.github.io/Reading-notes/reads301/read09) |
 |Read 10 | [Read10](https://rand92.github.io/Reading-notes/reads301/read10) |
-|Read 10 | [Read11](https://rand92.github.io/Reading-notes/reads301/read11) |
-|Read 10 | [Read12](https://rand92.github.io/Reading-notes/reads301/read12) |
-|Read 10 | [Read13](https://rand92.github.io/Reading-notes/reads301/read13) |
+|Read 11 | [Read11](https://rand92.github.io/Reading-notes/reads301/read11) |
+|Read 12 | [Read12](https://rand92.github.io/Reading-notes/reads301/read12) |
+|Read 13 | [Read13](https://rand92.github.io/Reading-notes/reads301/read13) |
 ## Code 401 - Advanced Software Development
 
 ## Things I want to know more about:
