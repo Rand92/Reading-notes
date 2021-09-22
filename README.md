@@ -50,6 +50,7 @@ it's a website for all the reading tasks we had .
 |Read 11 | [Read11](https://rand92.github.io/Reading-notes/reads301/read11) |
 |Read 12 | [Read12](https://rand92.github.io/Reading-notes/reads301/read12) |
 |Read 13 | [Read13](https://rand92.github.io/Reading-notes/reads301/read13) |
+|Read 14 | [Read14](https://rand92.github.io/Reading-notes/reads301/read14) |
 ## Code 401 - Advanced Software Development
 
 ## Things I want to know more about:
